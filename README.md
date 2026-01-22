@@ -1,6 +1,6 @@
 I'm Ralph Shenal👋
 
-I'm an IT undergraduate passionate about **UI/UX design, digital solutions, and project management. 
+I'm an IT undergraduate passionate about UI/UX design, digital solutions, and project management. 
 I enjoy combining creativity with organization to build user-friendly and effective projects.
 
 ---
